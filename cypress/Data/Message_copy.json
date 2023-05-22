@@ -1,0 +1,23 @@
+[
+  {
+    "Test Case Name": "test 01",
+    "Language": "Tiếng Việt",
+    "Type": "Information",
+    "Topic VN": "XXXXX",
+    "Notifi Should": "null",
+    "Topic EN": "XXXXX",
+    "Notifi Should_1": "null",
+    "Topic JP": "XXXXX",
+    "Notifi Should_2": "null",
+    "From times": "2017-05-01T09:39",
+    "Notifi Should_3": "null",
+    "To times": "2017-05-01T09:40",
+    "Notifi Should_4": "null",
+    "Mess VN": "XXXXX",
+    "Notifi Should_5": "null",
+    "Mess EN": "XXXXX",
+    "Notifi Should_6": "null",
+    "Mess JP": "XXXXX",
+    "Notifi Should_7": "null"
+  }
+]

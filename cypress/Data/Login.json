@@ -1,0 +1,50 @@
+[
+  {
+    "Test Case Name": "Ahihi",
+    "Username": "9999999999999",
+    "Password": "1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "Normal Login",
+    "Username": "1416",
+    "Password": "1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "Wrong pass",
+    "Username": "1416",
+    "Password": "2",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "Wrong username",
+    "Username": "54645",
+    "Password": "1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "Space Before Username",
+    "Username": "  555",
+    "Password": "1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "Space Before Password",
+    "Username": "1416",
+    "Password": "    1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "empty username",
+    "Username": "null",
+    "Password": "    1",
+    "Should": "null"
+  },
+  {
+    "Test Case Name": "empty password",
+    "Username": "1305",
+    "Password": "null",
+    "Should": "null"
+  }
+]

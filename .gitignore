@@ -1,0 +1,7 @@
+node_modules
+File-Excel
+cypress/downloads
+cypress/reports
+cypress/screenshots
+cypress/videos
+test.js

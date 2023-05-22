@@ -1,0 +1,72 @@
+[
+  {
+    "Tên Màn Hình": "iPhone SE",
+    "Width": 320,
+    "Height": 568
+  },
+  {
+    "Tên Màn Hình": "iPhone 6/7/8",
+    "Width": 375,
+    "Height": 667
+  },
+  {
+    "Tên Màn Hình": "iPhone 6/7/8 Plus",
+    "Width": 414,
+    "Height": 736
+  },
+  {
+    "Tên Màn Hình": "Samsung Galaxy S8",
+    "Width": 360,
+    "Height": 740
+  },
+  {
+    "Tên Màn Hình": "Google Pixel",
+    "Width": 411,
+    "Height": 731
+  },
+  {
+    "Tên Màn Hình": "Xiaomi Redmi Note 7",
+    "Width": 1080,
+    "Height": 2340
+  },
+  {
+    "Tên Màn Hình": "Test",
+    "Width": 649,
+    "Height": 1024
+  },
+  {
+    "Tên Màn Hình": "iPad",
+    "Width": 768,
+    "Height": 1024
+  },
+  {
+    "Tên Màn Hình": "iPad Pro",
+    "Width": 1024,
+    "Height": 1366
+  },
+  {
+    "Tên Màn Hình": "Samsung Galaxy Tab S6",
+    "Width": 1600,
+    "Height": 2560
+  },
+  {
+    "Tên Màn Hình": "Desktop",
+    "Width": 1366,
+    "Height": 768
+  },
+  {
+    "Tên Màn Hình": "Desktop",
+    "Width": 1440,
+    "Height": 900
+  },
+  {
+    "Tên Màn Hình": "Desktop",
+    "Width": 1920,
+    "Height": 1080
+  },
+  {
+    "Tên Màn Hình": "Desktop",
+    "Width": 2560,
+    "Height": 1440
+  }
+]

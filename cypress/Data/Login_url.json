@@ -1,0 +1,10 @@
+[
+  {
+    "Test Case Name": "Main URL",
+    "URL": "https://wfh.csvdemo.com/"
+  },
+  {
+    "Test Case Name": "Register URL",
+    "URL": "https://wfh.csvdemo.com/work-from-home/register"
+  }
+]

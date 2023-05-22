@@ -1,0 +1,28 @@
+[
+  {
+    "Test Case Name": "Test 01",
+    "Language": "Tiếng Việt",
+    "Type": "Hướng dẫn",
+    "nameVN": "Ajix",
+    "Notifi Message": "null",
+    "nameEN": "Ajix",
+    "Notifi Message_1": "null",
+    "nameJP": "Ajix",
+    "Notifi Message_2": "null",
+    "fileUrl": "Ajix",
+    "Notifi Message_3": "null"
+  },
+  {
+    "Test Case Name": "Test 02",
+    "Language": "English",
+    "Type": "Hướng dẫn",
+    "nameVN": "Ajix",
+    "Notifi Message": "Tên đã tồn tại. Vui lòng kiểm tra lại",
+    "nameEN": "Ajix",
+    "Notifi Message_1": "Tên đã tồn tại. Vui lòng kiểm tra lại",
+    "nameJP": "null",
+    "Notifi Message_2": "Tên đã tồn tại. Vui lòng kiểm tra lại",
+    "fileUrl": "SSS",
+    "Notifi Message_3": "Tên đã tồn tại. Vui lòng kiểm tra lại"
+  }
+]
